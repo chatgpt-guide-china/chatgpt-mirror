@@ -1,11 +1,11 @@
-# 国内 ChatGPT-4中文版镜像网站整理（2025/05/07 更新）【镜像网站合集】              
+# 国内 ChatGPT-4中文版镜像网站整理（2025/05/08 更新）【镜像网站合集】              
 
 为方便使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://chat.yixiaai.com)，都有优劣之处，大家可自选使用~
 
 在国内**无需翻墙**，就能直接在线使用 [**ChatGPT镜像网站**](https://chat.lanjing.pro)~
 
-**ChatGPT 中文版**入口：**[https://chat.yixiaai.com](https://chat.yixiaai.com)**   
-**ChatGPT 镜像网站**：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 镜像网站**：**[https://chat.yixiaai.com](https://chat.yixiaai.com)**
 
 ---
 
