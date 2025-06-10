@@ -2,16 +2,16 @@
 
 为方便使用，我整理了一些国内可用的 [**ChatGPT 镜像网站**](https://xsimplechat.com)，都有优劣之处，大家可自选使用~
 
-在国内**无需翻墙**，就能直接在线使用 [**ChatGPT镜像网站**](https://chat.lanjing.pro)~
+在国内**无需翻墙**，就能直接在线使用 [**ChatGPT镜像网站**](https://chat.lanjingai.org)~
 
-**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
 **ChatGPT 镜像网站**：**[https://chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
 ## 什么是 ChatGPT镜像网站？
 
-[**ChatGPT镜像网站**](https://chat.lanjing.pro)（ChatGPT Mirror）是指将原始官网的内容复制到另一服务器上的网站服务，用户在国内无需翻墙就能使用~
+[**ChatGPT镜像网站**](https://chat.lanjingai.org)（ChatGPT Mirror）是指将原始官网的内容复制到另一服务器上的网站服务，用户在国内无需翻墙就能使用~
 
 与官网相比，**ChatGPT镜像网站**更适合国内用户：
 
@@ -24,7 +24,7 @@
 ## 国内推荐的 ChatGPT镜像网站
 
 - [https://chat.yixiaai.com/](https://xsimplechat.com/) - 已稳定运行 2年+，支持 GPT-4o、4o画图、4.1 以及 3.5，支持助手、插件、PPT、思维导图等实用功能。
-- [https://chat.lanjing.pro/](https://chat.lanjing.pro/) - 支持 GPT-4o、4o画图、4.1、o1、o3 及 Gemini 2.5 Pro、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
+- [https://chat.lanjingai.org/](https://chat.lanjingai.org/) - 支持 GPT-4o、4o画图、4.1、o1、o3 及 Gemini 2.5 Pro、Claude 3.7 sonnet、Grok 3 最先进的模型，无限使用~
 - [https://chat.lify.vip/](https://chat.yixiaai.com/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
 - [https://chat.chatgpt-chinese.com/](https://chat.lanjingai.org/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - 支持 GPT4、4.0，使用简单便捷。
